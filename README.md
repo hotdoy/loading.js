@@ -1,6 +1,6 @@
 # loading.js
 
-Add a loading to any site and give you a bunch of page states (body class) like ```loading```, ```loaded``` and ```unloading```.
+Add a loading and simple page state (```loading```, ```loaded``` and ```unloading```) to any site.
 
 ## Usage
 
